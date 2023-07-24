@@ -39,19 +39,19 @@ The dataset consists of **75,283** sets of images (**301,132** images in total) 
 
 ### Gender of people in the dataset
 
-![image](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/797b91f0-13e4-485b-9802-beb622feab55)
+![image](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/faee1aca-5bc9-4ff3-855b-127c5abe46b4)
 
 ### Age of people in the dataset
 
-![image](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/6e66e508-68b1-4c15-9f96-5cd682442614)
+![image](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/b815c775-29df-45df-94b1-9ea3a15a81e7)
 
 ### Ethnicity of people in the dataset
 
-![image](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/46027dae-ef5f-4a37-b5c2-69e5c84869d9)
+![image](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/4abe7ff7-cddf-4a90-a484-6ddc9f476fd8)
 
 ### Regions of people in the dataset
 
-![image](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/11ba3114-2ae7-485e-8568-5312991b209d)
+![image](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/f2f7532f-3d2e-412a-b46b-b45615107878)
 
 <a name="cont"></a>
 
