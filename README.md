@@ -13,8 +13,11 @@ We introduce a large image dataset called Selfie and ID Dataset for training a n
 
 The dataset consists of **5,591** sets of images (**83,865** images in total) from **4,200+** unique people from **55** countries. The data for the dataset is still gathering, so the number of photos is getting bigger!
 
-
-
+### The dataset includes 4 different types of images:
+- **TYPE 1** - no mask on the face.
+- **TYPE 2** - mask is on, but does not cover the nose or mouth.
+- **TYPE 3** - mask covers the mouth, but does not cover the nose.
+- **TYPE 4** - mask is worn correctly, covers the nose and mouth.
 
 ![MacBook Air - 1 (1)](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/abea36d7-a73c-44a5-907a-85492f0418d8)
 
