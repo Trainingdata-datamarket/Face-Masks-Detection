@@ -33,6 +33,7 @@ The dataset consists of **75,283** sets of images (**301,132** images in total) 
 
 ### People in the dataset
 
+![MacBook Pro 14_ - 1 (1)](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/e10a4706-161a-47f3-be45-6788faf332cb)
 
 <a name="dist"></a>
 # Distributions
