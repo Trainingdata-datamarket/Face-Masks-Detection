@@ -7,9 +7,9 @@
 
 <a name="about"></a>
 # About the dataset
-We introduce a large image dataset called **Face Masks Detection** for training a neural network to solve reidentification tasks. The dataset consists of selfie photos of people wearing medical masks. 
+We introduce a large image dataset called **Face Masks Detection** for training a neural network to solve reidentification tasks. This dataset consists of a collection of high-quality photographs capturing individuals wearing medical masks. These images have been curated and compiled into a comprehensive dataset to aid in various machine learning and computer vision applications. The photographs showcase diverse gender, age, and ethnic groups, allowing for a broad spectrum of representation. 
 
-"Selfie and ID Dataset" can be utilized in several applications, including facial recognition algorithms, identity verification systems, forensic analysis, and deep learning research. By providing both personal and official photographs, this dataset offers a comprehensive resource for evaluating and improving the performance of algorithms in various real-world scenarios.
+The dataset featuring photos of people wearing medical masks provides a valuable resource for various machine learning and computer vision applications. With its diverse subjects, comprehensive annotations, high image resolution, this dataset encourages advancements in *facial recognition, emotion analysis, and healthcare research, among other potential applications*.
 
 The dataset consists of **5,591** sets of images (**83,865** images in total) from **4,200+** unique people from **55** countries. The data for the dataset is still gathering, so the number of photos is getting bigger!
 
