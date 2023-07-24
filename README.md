@@ -25,7 +25,7 @@ The dataset consists of **5,591** sets of images (**83,865** images in total) fr
 - Distance from the camera is approximately 20-30 centimeters.
 
 ### People in the dataset
-![Desktop - 1 (1)](https://github.com/trainingdata-pro/Selfie-Id-Dataset/assets/113421352/3b0969ff-a56b-407f-9aad-900c67e86429)
+![MacBook Pro 14_ - 1](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/5bfbc0f6-d51b-4170-9de8-557b2c8821a5)
 
 
 <a name="dist"></a>
