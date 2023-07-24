@@ -14,11 +14,13 @@ We introduce a large image dataset called Selfie and ID Dataset for training a n
 The dataset consists of **5,591** sets of images (**83,865** images in total) from **4,200+** unique people from **55** countries. The data for the dataset is still gathering, so the number of photos is getting bigger!
 
 
+
+
 ![MacBook Air - 1 (1)](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/abea36d7-a73c-44a5-907a-85492f0418d8)
 
 
 ### Data in the dataset
-- People from 18 to 76 years old are presented in the dataset.
+- People from 18 to 81 years old are presented in the dataset.
 - For each person in the dataset age, country and gender is presented.
 - The data was mostly collected indoor, however there are also selfies made outdoors.
 - The lighting is artificial, natural daily lightning, evening outdoor lighting and dark indoor lighting.
@@ -51,18 +53,18 @@ The dataset consists of **5,591** sets of images (**83,865** images in total) fr
 <a name="cont"></a>
 
 # Content
-### The folder **"Selfies ID Images dataset"** includes 29 folders (18 sets from caucasians and 11 from hispanics):
+### The folder **"images"** includes 10 folders:
 - corresponding to each person in the sample
-- containing of 13 selfies and 2 photos from the documents of the individual
+- containing of 4 selfies of the individual (*no mask, mask does not cover the nose or mouth, mask covers the mouth, mask covers the nose and mouth*)
 
 ### File with the extension .csv
 includes the following information for each media file:
-- **SetId**: the identifier of the set,
-- **UserRace**: race of the person,
-- **Age**: the age of the person,
-- **Name**: name of the person,
-- **FName**: name of the file,
-- **URL**: the link to access the media file
+- **WorkerId**: identifier of the person who provided the media file,
+- **Country**: country of origin of the person,
+- **Age**: age of the person,
+- **Sex**: gender of the person,
+- **Type**: type of media file,
+- **Link**: URL to access the media file
 
 <a name="getdat"></a>
 # Get the Dataset
