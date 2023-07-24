@@ -34,17 +34,22 @@ The dataset consists of **5,591** sets of images (**83,865** images in total) fr
 
 ### Gender of people in the dataset
 
-![image](https://github.com/trainingdata-pro/Selfie-Id-Dataset/assets/113421352/f08c85bc-f167-45b3-ab80-0a3e5e8eef2c)
-
-### Ethnicity of people in the dataset
-
-![image](https://github.com/trainingdata-pro/Selfie-Id-Dataset/assets/113421352/fcfe41bd-095c-4bee-9f5c-66f4503f27ef)
+![image](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/797b91f0-13e4-485b-9802-beb622feab55)
 
 ### Age of people in the dataset
 
-![image](https://github.com/trainingdata-pro/Selfie-Id-Dataset/assets/113421352/99b7b128-38e6-4930-af3e-3e519adece40)
+![image](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/6e66e508-68b1-4c15-9f96-5cd682442614)
+
+### Ethnicity of people in the dataset
+
+![image](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/46027dae-ef5f-4a37-b5c2-69e5c84869d9)
+
+### Regions of people in the dataset
+
+![image](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/11ba3114-2ae7-485e-8568-5312991b209d)
 
 <a name="cont"></a>
+
 # Content
 ### The folder **"Selfies ID Images dataset"** includes 29 folders (18 sets from caucasians and 11 from hispanics):
 - corresponding to each person in the sample
