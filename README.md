@@ -21,7 +21,7 @@ The dataset consists of **75,283** sets of images (**301,132** images in total) 
 - **Type 3** - mask covers the mouth, but does not cover the nose.
 - **Type 4** - mask is worn correctly, covers the nose and mouth.
 
-![MacBook Air - 1 (2)](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/bac36c6e-ad9c-428f-b2e1-19e4d25173af)
+![MacBook Air - 1 (2)](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/4ba7d77b-0372-4dc5-990b-329756af52b8)
 
 ### Data in the dataset
 - People from 18 to 81 years old are presented in the dataset.
@@ -32,7 +32,6 @@ The dataset consists of **75,283** sets of images (**301,132** images in total) 
 - Distance from the camera is approximately 20-30 centimeters.
 
 ### People in the dataset
-![MacBook Pro 14_ - 1](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/5bfbc0f6-d51b-4170-9de8-557b2c8821a5)
 
 
 <a name="dist"></a>
