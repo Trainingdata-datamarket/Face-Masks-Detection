@@ -19,7 +19,7 @@ The dataset consists of **5,591** sets of images (**83,865** images in total) fr
 - **TYPE 3** - mask covers the mouth, but does not cover the nose.
 - **TYPE 4** - mask is worn correctly, covers the nose and mouth.
 
-![MacBook Air - 1 (1)](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/abea36d7-a73c-44a5-907a-85492f0418d8)
+![MacBook Air - 1 (2)](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/bac36c6e-ad9c-428f-b2e1-19e4d25173af)
 
 
 ### Data in the dataset
