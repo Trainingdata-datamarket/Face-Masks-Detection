@@ -14,7 +14,8 @@ We introduce a large image dataset called Selfie and ID Dataset for training a n
 The dataset consists of **5,591** sets of images (**83,865** images in total) from **4,200+** unique people from **55** countries. The data for the dataset is still gathering, so the number of photos is getting bigger!
 
 
-![Desktop - 1 (3)](https://github.com/trainingdata-pro/Selfie-Id-Dataset/assets/113421352/f14bd950-620b-40ec-bd08-ffc883b63d0b)
+![MacBook Air - 1](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/028dd49a-dd32-4b68-b24a-c9fbc8f20ca5)
+
 
 ### Data in the dataset
 - People from 18 to 76 years old are presented in the dataset.
