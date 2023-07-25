@@ -7,7 +7,7 @@
 
 <a name="about"></a>
 # About the dataset
-We introduce a large image dataset called **Face Masks Detection** for training a neural network to solve reidentification tasks. This dataset consists of a collection of high-quality photographs capturing individuals wearing medical masks. These images have been curated and compiled into a comprehensive dataset to aid in various machine learning and computer vision applications. 
+We introduce a large image dataset called **Face Masks Detection** for training a neural network to solve mask detection and reidentification tasks. This dataset consists of a collection of high-quality photographs capturing individuals wearing medical masks. These images have been curated and compiled into a comprehensive dataset to aid in various machine learning and computer vision applications. 
 
 The photographs showcase diverse *gender, age, and ethnic groups, allowing for a broad spectrum of representation.*
 
